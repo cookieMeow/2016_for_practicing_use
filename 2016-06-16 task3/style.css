@@ -7,6 +7,7 @@ body{
 	background-color: #eee;
 	border: 1px solid #999;
 	overflow: auto;
+	min-width: 600px;
 }
 
 #left_col{
@@ -42,7 +43,7 @@ body{
 	height:80px;
 	width:80px;
 	margin: 20px;
-/*	display: block;*/
+	display: block;
 	border: 1px solid #999;
 }
 
