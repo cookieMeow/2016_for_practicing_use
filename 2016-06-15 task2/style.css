@@ -133,12 +133,12 @@ table, th, td {
     padding-right:10px;
 }
 
-aside form div{
+aside form{
 	/*border: 1px solid green;*/
     margin:10px;
 }
 
-aside form div p{
+aside form p{
     margin-left:35%;
     padding-left:15px;
     font-size:12px;
